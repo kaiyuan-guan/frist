@@ -1,14 +1,9 @@
 {
-  "name": "jiekou",
-  "version": "1.0.0",
-  "description": "",
-  "main": "jiekou.js",
+  
   "scripts": {
     "start": "node jiekou.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+
   "dependencies": {
     "express": "^4.18.2"
   }
